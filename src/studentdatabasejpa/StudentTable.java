@@ -15,7 +15,7 @@ import javax.persistence.Query;
 
 /**
  *
- * @author user
+ * @author nueng
  */
 public class StudentTable {
         
